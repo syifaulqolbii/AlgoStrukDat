@@ -14,6 +14,7 @@
 # print(isiKRS("SQ1912"))
 # print(cetakKHS("SQ1912"))
 
+# --------------------------------------------------------
 # def luas(p, l):
 #     """ menghitung luas persegi panjang """
 #     luas = p * l
@@ -22,6 +23,7 @@
 
 # print(luas(10, 5))
 
+# -------------------------------------------------------
 # def lk(r):
 #     """menghitung luas dan keliling lingkaran"""
 #     luas = 3.14 * r * r
@@ -30,7 +32,7 @@
 
 
 # print(lk(4))
-
+# ----------------------------------------------------------
 # def balok(p, l=2, t=3):
 #     """mengembalikan volume dan luas"""
 #     vol = p * l*t
@@ -40,6 +42,7 @@
 
 # print(balok(l=1))
 
+# -----------------------------------------------------------
 
 def factorial_recursive(n):
     print(n)
